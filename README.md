@@ -1,4 +1,4 @@
-# 🧠 AI & ML Projects – Venkata Karthik Patralapati
+# 🧠 AI & DL Projects – Venkata Karthik Patralapati
 
 Welcome to my portfolio of applied AI/ML projects across deep learning, natural language processing, and generative AI. This includes work on GANs (SRGAN, LSGAN), LSTM-based text classification, and Retrieval-Augmented Generation (RAG) pipelines using state-of-the-art LLMs like **Mistral** and **LLaMA3**.
 
